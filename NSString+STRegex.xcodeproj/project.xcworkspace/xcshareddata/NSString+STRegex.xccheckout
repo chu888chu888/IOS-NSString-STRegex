@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>64013FCE-F2F4-46FD-B42A-F8F7F0E6B5E2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NSString+STRegex</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8688F82647B53CFB2F917F83DDE59D7897E126B6</key>
+		<string>https://github.com/siriusdely/GTMNSString-HTML.git</string>
+		<key>97B88516AC4EC94F738F8016658CC3E4A3FC5061</key>
+		<string>http://git.oschina.net/yanglishuan/NSString-STRegex.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NSString+STRegex.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8688F82647B53CFB2F917F83DDE59D7897E126B6</key>
+		<string>../../../GTMNSString-HTML</string>
+		<key>97B88516AC4EC94F738F8016658CC3E4A3FC5061</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://git.oschina.net/yanglishuan/NSString-STRegex.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>97B88516AC4EC94F738F8016658CC3E4A3FC5061</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8688F82647B53CFB2F917F83DDE59D7897E126B6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GTMNSString-HTML</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>97B88516AC4EC94F738F8016658CC3E4A3FC5061</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NSString-STRegex</string>
+		</dict>
+	</array>
+</dict>
+</plist>
